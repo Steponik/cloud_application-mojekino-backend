@@ -1,0 +1,15 @@
+{
+  "nazev": "Grand Budapest Hotel",
+  "popis": "Wes Andersonova poetická komedie o legendárním hotelu, ukradeném dílu umění a nečekaném přátelství mezi concierge a novým lobbyistou.",
+  "obsazeni": [
+    "Ralph Fiennes",
+    "Tony Revolori",
+    "Saoirse Ronan",
+    "Adrien Brody"
+  ],
+  "plakat": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_FMjpg_UX1000_.jpg",
+  "zanr": "Komedie",
+  "vekovaKategorie": "12+",
+  "delkaMinuty": 100,
+  "id": "ac6d7e8f9012a3b4c5d6e7f8091a2b3"
+}

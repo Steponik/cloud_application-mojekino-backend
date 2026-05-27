@@ -1,0 +1,14 @@
+{
+  "nazev": "Blade Runner 2049",
+  "popis": "Temný sci-fi noir o detektivovi, který pátrá po pravdě o minulosti.",
+  "obsazeni": [
+    "Ryan Gosling",
+    "Harrison Ford",
+    "Ana de Armas"
+  ],
+  "plakat": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_FMjpg_UX1000_.jpg",
+  "zanr": "Sci-Fi",
+  "vekovaKategorie": "18+",
+  "delkaMinuty": 164,
+  "id": "bd7e8f9012a3b4c5d6e7f8091a2b3c4"
+}
